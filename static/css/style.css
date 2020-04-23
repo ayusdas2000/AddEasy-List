@@ -7,3 +7,10 @@
     height: 250px; /* Your height here */
     overflow: hidden;
 }
+#footer {
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background: red;
+}
