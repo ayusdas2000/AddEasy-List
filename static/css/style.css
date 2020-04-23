@@ -8,9 +8,9 @@
     overflow: hidden;
 }
 #footer {
-    position: fixed;
+    position: absolute;
     bottom: 0;
-    height: 100px;
+    height: 50px;
     width: 100%;
-    background: red;
+    background: #F54C4C;
 }
